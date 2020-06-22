@@ -1,0 +1,28 @@
+b, strong {
+  font-size: 25px;
+  color: #00334c;
+  /*text-decoration: italic;*/
+  /*font-color: red;*/
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  align-items: center;
+}
+
+#about {
+  align-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  /*align-items: center;*/
+  /*align-items: center;*/
+  text-align: center;
+  image-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
